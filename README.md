@@ -1,4 +1,4 @@
-# Cava Reader — downloads
+# Cava Reader downloads: get the app, and keep it updated
 
 **This repository only holds Cava Reader's releases.** There is no source code here. It exists so
 that anyone can download the app and, more importantly, keep it updated without the Play Store.
