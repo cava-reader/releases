@@ -3,8 +3,7 @@
 **This repository holds Cava Reader's releases only.** No source code. It exists so you can
 install the app without the Play Store and keep it updated.
 
-Android 8.0 or newer. Every APK here is signed with the same key as the Play build, so one
-downloaded from here installs over a Play install without conflict.
+Android 8.0 or newer.
 
 ---
 
@@ -27,22 +26,14 @@ new version for you. Set it up once and Cava Reader keeps itself updated.
 4. Leave **auto update** on, or off if you would rather be asked each time. Either way you
    get a notification when a release appears.
 
-No Play Store, no Google account, and you never have to work out whether your phone is
-arm64.
-
-> **While this repository is private**, Obtainium cannot read it, so it will fail on step 3.
-> Until it is made public, download the APK from the
-> [latest release](../../releases/latest) instead: `arm64-v8a` for almost every phone made
-> since about 2016, `universal` for everything else. Install a newer APK over the old one to
-> update; your library, your place in every book and Full all survive it.
+Without the Play Store and a Google account.
 
 ---
 
 ## Buy Full without Google Play
 
-Everything in Cava Reader is free: reading, listening, and the whole Public Domain library
-with read along included. **Full** is the one thing that costs money, a one-time purchase
-with no subscription. It keeps read along switched on for the books you bring yourself, past
+Cava Reader is free: reading, listening, and the whole Public Domain library with read along included. The **Full** app is the one thing that costs money, a one-time purchase
+with no subscription. It lets you use read along for your own books forever, past
 the four free hours.
 
 1. **Buy it at [cavareader.app/get](https://cavareader.app/get).** You get a licence key by
@@ -56,7 +47,7 @@ Settings → About, or use the manage link in your purchase email if the old dev
 then enter the same key on the new phone. Nothing is charged again.
 
 **Lost your key?** Search your email for the message from our store, or write to the support
-address on your receipt.
+at contact@cavareader.app.
 
 ---
 
