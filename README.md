@@ -7,10 +7,17 @@ Android 8.0 or newer.
 
 ---
 
-## Install with Obtainium
+## APK downloads
 
-[Obtainium](https://github.com/ImranR98/Obtainium) watches a releases page and installs each
-new version for you. Set it up once and Cava Reader keeps itself updated.
+**Obtainium is the recommended way to install the APK without Google Play.** It checks
+for new Cava Reader releases automatically and can install updates when auto-update is
+enabled, so you do not have to keep checking GitHub or downloading each APK yourself.
+Android may still ask you to confirm installation, depending on your device and settings.
+
+### Install with Obtainium (recommended)
+
+[Obtainium](https://github.com/ImranR98/Obtainium) installs Cava Reader directly from this
+repository and keeps track of new versions for you.
 
 1. **Install Obtainium** from
    [GitHub](https://github.com/ImranR98/Obtainium/releases) or
@@ -27,6 +34,16 @@ new version for you. Set it up once and Cava Reader keeps itself updated.
    get a notification when a release appears.
 
 Without the Play Store and a Google account.
+
+### Download an APK manually
+
+Prefer a direct download? Open the [latest release](https://github.com/cava-reader/releases/releases/latest),
+expand **Assets**, and download the APK for your device. Open the downloaded file to
+install it; Android may ask you to allow installs from your browser or file manager.
+
+**A manually installed APK does not update itself.** You will need to return here and
+install newer APKs yourself, or add Cava Reader to Obtainium to get automatic update
+checks and managed updates. **We recommend Obtainium for ongoing updates.**
 
 ---
 
