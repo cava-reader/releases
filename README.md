@@ -1,11 +1,18 @@
-# Cava Reader downloads
+# Cava Reader
 
-**This repository holds Cava Reader's releases only.** No source code. It exists so you can
-install the app without the Play Store and keep it updated.
+An Android ebook reader and audiobook player that highlights each word as the narrator says it.
+Bring your own EPUB and audiobook, or start with 37 free classics.
 
-Android 8.0 or newer.
+<table>
+<tr>
+<td><img src="screenshots/read-along.png" width="260" alt="Cava Reader reading along: the ebook page with the current word highlighted as the narrator speaks."></td>
+<td><img src="screenshots/public-domain.png" width="260" alt="The free public domain library, showing book covers and download options."></td>
+</tr>
+</table>
 
----
+**[cavareader.app](https://cavareader.app)** · **[Google Play](https://play.google.com/store/apps/details?id=dev.micr0.cavareader)** · **[Free classics](https://cavareader.app/classics/)**
+
+Android 8.0 or newer. No account, no ads, no trackers.
 
 ## APK downloads
 
